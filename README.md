@@ -6,4 +6,6 @@ Our files:
 2. Data Visualization: creating graphs to show relationships/trends. 
 3. Model: this is the actual clustering model used ot find our clusters to gain further insights. 
 
+Over the course of the project we will add notes about the files of the project and what we are doing. 
+
 
